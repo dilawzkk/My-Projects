@@ -1,0 +1,13 @@
+semester : 3
+month : November
+year : 2015
+result_type : Regular
+output_file : /Users/dkk/Desktop/marklist.csv
+registration_num_sets : 
+   - start_num : 12150810
+     set_len : 10
+   - start_num : 12150880
+     set_len : 10
+   - start_num : 12150800
+     set_len : 1
+
